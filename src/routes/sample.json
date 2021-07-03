@@ -1,0 +1,26 @@
+
+
+[
+    {
+        "id": "1",
+        "album": "The Chronic",
+        "gender": "Gangsta rap",
+        "release": "december 15 of 1992",
+        "duration": "62:52 minutes",
+        "discography": "Death Row, Interscope, Priorty",
+        "productor": "Dr.Dre",
+        "recorded": "1992"
+    },
+
+    {
+        "id": "2",
+        "album": "The Blueprint",
+        "gender": "Rap",
+        "release": "september 11 of 2001",
+        "duration": "62:52 minutes",
+        "discography": "Def Jam/Roc-A-Fella",
+        "productor": "Jay-Z, Felix Parpadi, Kanye West, Memphis Bleek, Just Blaze",
+        "recorded": "2001",
+        "format": ""
+    }
+]
